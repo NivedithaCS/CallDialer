@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CallDialer</string>
+    <string name="call">Phone Call Dialler</string>
+    <string name="butn1_name">Call 0112233445566</string>
+    <string name="btn2_name">Call 0665544332211</string>
+</resources>
